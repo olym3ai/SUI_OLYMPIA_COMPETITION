@@ -1,5 +1,5 @@
 # SUI_OLYMPIA_COMPETITION
-OLYMPIA COMPITITION ON SUI
+OLYMPIA COMPETITION ON SUI
 
 Creating a web3 project that combines AI to ​organize a competition
 like the Road to Mount ​Olympia for Vietnam Television involves several ​components, 
